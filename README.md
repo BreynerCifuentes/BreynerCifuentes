@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BreynerCifuentes and I was born in 2006 👶
 - 👀 I’m interested in creating new things and contributing in small projects
 - 🌱 I’m currently learning English and Back-end with Python 🐍
-- 📫 How to reach me?: cifubrey17@gmial.com
+- 📫 How to reach me?: cifubrey17@gmail.com
 - 🎮 Nikname: Megabrey7
 - 🧠 Currently knowlenge: Python 🐍, Git 🐱
 
