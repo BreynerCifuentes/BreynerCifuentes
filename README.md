@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning English and Back-end with Python 🐍
 - 📫 How to reach me?: cifubrey17@gmail.com
 - 🎮 Nikname: Megabrey7
-- 🧠 Currently knowlenge: Python 🐍, Git 🐱
+- 🧠 Currently knowlenge: Python 🐍, Git 🐱, Flask 🌶️, MySQL 🐬
 
 <!---
 BreynerCifuentes/BreynerCifuentes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
